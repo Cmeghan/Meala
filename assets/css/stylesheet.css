@@ -1,6 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     background-color: saddlebrown;
 }
+
+/*navigation and logo*/
 
 li {
     display: inline;
@@ -33,7 +41,6 @@ a:visited {
     letter-spacing: 5px;
     padding-top: 5px;
     text-transform: uppercase;
-
 }
 
 .active{
@@ -45,4 +52,52 @@ a:visited {
     color: saddlebrown;
     background-color: bisque;
     border-radius: 7px;
+}
+
+/*About Section*/
+
+#about {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#about-content h2 {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'IBM Plex Serif', sans-serif;
+    padding-top: 50px;
+    color: bisque;
+    letter-spacing: 2px;
+    ;
+
+}
+
+#about-content p {
+    text-align: center;
+    padding: 10px, 25px, 10px, 25px;
+    color:bisque;
+    font-weight: lighter;
+    font-family: 'IBM Plex Serif', sans-serif;
+    margin: 35px;
+}
+
+/*Price List*/
+#price-list {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin:auto
+    
+}
+
+#price-content {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'IBM Plex Serif', sans-serif;
+    padding-top: 50px;
+    color: bisque;
+    letter-spacing: 2px;
+    display: block;
 }
