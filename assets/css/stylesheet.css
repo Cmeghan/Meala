@@ -191,3 +191,37 @@ a:visited {
     letter-spacing: 2px;
     font-family: 'IBM Plex Serif', sans-serif;
 }
+
+/*footer contact form*/
+
+#form {
+    text-align: center;
+    font-family: 'IBM Plex Serif', sans-serif;
+    font-weight: lighter;
+    color: bisque;
+    letter-spacing: 2px;
+    border: 2px solid bisque;
+    padding: 10px;
+}
+
+.form-box {
+    width:40%;
+    border: solid 2px;
+    color: bisque;
+    border-radius: 5px;
+}
+
+#comment-box {
+    height: 50px;
+    width: 40%;
+    border: solid 2px;
+    color: bisque;
+    border-radius: 5px;
+}
+
+.buttons {
+    height:20px;
+    width:80px;
+    border: solid 2px;
+    border-radius: 25px;
+}
