@@ -1,0 +1,21 @@
+
+
+li {
+    display: inline;
+    float: right;
+    padding: 25px;
+    color:bisque
+}
+
+li a {
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: 'IBM Plex Serif', sans-serif;
+    text-transform: uppercase;
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(150, 143, 7);
+}
