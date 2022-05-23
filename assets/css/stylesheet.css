@@ -151,12 +151,16 @@ a:visited {
 
 #opening {
     float:left;
-    margin: 15px;
+    margin: 30px;
+    border: 2px solid bisque;
+    padding: 10px;
 }
 
 #contact {
     float:right;
-    margin: 15px;
+    margin: 30px;
+    border: 2px solid bisque;
+    padding: 10px;
 }
 
 #contact-details {
