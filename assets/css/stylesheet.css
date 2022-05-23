@@ -10,7 +10,7 @@ body {
 
 /*navigation and logo*/
 
-li {
+.topnav li {
     display: inline;
     float: right;
     padding: 25px;
@@ -92,12 +92,23 @@ a:visited {
     
 }
 
-#price-content {
+#price-content h2 {
     text-align: center;
     text-decoration: none;
     font-family: 'IBM Plex Serif', sans-serif;
     padding-top: 50px;
     color: bisque;
     letter-spacing: 2px;
-    display: block;
+}
+
+#styles li {
+
+    text-align: left;
+    text-decoration: none;
+    font-family: 'IBM Plex Serif', sans-serif;
+    padding-top: 50px;
+    padding-left: 150px;
+    color: bisque;
+    letter-spacing: 2px;
+    list-style-type: none;
 }
