@@ -1,4 +1,6 @@
-
+body {
+    background-color: saddlebrown;
+}
 
 li {
     display: inline;
@@ -17,5 +19,30 @@ li a {
 
 a:visited {
     text-decoration: none;
-    color: rgb(150, 143, 7);
+    color: bisque
+}
+
+#logo {
+    float: left;
+    padding: 20px;
+    margin: auto;
+    color: bisque;
+    font-family: 'Source Serif 4', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding-top: 5px;
+    text-transform: uppercase;
+
+}
+
+.active{
+    text-decoration: underline;
+    
+}
+
+.topnav a:hover {
+    color: saddlebrown;
+    background-color: bisque;
+    border-radius: 7px;
 }
