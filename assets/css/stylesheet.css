@@ -64,7 +64,7 @@ a:visited {
 
 #about-content h2 {
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     font-family: 'IBM Plex Serif', sans-serif;
     padding-top: 50px;
     color: bisque;
@@ -84,7 +84,7 @@ a:visited {
 
 /*Price List*/
 #price-list {
-    height: 600px;
+    height: 650px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -94,21 +94,52 @@ a:visited {
 
 #price-content h2 {
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     font-family: 'IBM Plex Serif', sans-serif;
-    padding-top: 50px;
+    padding-top: 25px;
     color: bisque;
     letter-spacing: 2px;
 }
 
 #styles li {
 
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     font-family: 'IBM Plex Serif', sans-serif;
-    padding-top: 50px;
-    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color: bisque;
     letter-spacing: 2px;
     list-style-type: none;
+    font-weight: lighter;
+}
+
+/*Reviews*/
+
+#reviews {
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin:auto 
+}
+
+#review-content h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'IBM Plex Serif', sans-serif;
+    padding-top: 25px;
+    color: bisque;
+    letter-spacing: 2px;
+}
+
+#review-content p{
+    text-align: center;
+    font-style: italic;
+    font-family: 'IBM Plex Serif', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: bisque;
+    letter-spacing: 2px;
+    font-weight: lighter;
 }
