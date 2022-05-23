@@ -146,3 +146,44 @@ a:visited {
 #review-content span {
     font-weight: normal;
 }
+
+/*Footer (social, contact, opening hours)*/
+
+#opening {
+    float:left;
+    margin: 15px;
+}
+
+#contact {
+    float:right;
+    margin: 15px;
+}
+
+#contact-details {
+    text-align: left;
+    list-style-type: none;
+    font-family: 'IBM Plex Serif', sans-serif;
+    font-weight: lighter;
+    color: bisque;
+    letter-spacing: 2px;
+}
+
+#opening-times {
+    text-align: left;
+    list-style-type: none;
+    font-family: 'IBM Plex Serif', sans-serif;
+    font-weight: lighter;
+    color: bisque;
+    letter-spacing: 2px;
+}
+
+.bold {
+    font-weight: normal;
+}
+
+#opening-head, #contact-head {
+    font-weight: bold;
+    color: bisque;
+    letter-spacing: 2px;
+    font-family: 'IBM Plex Serif', sans-serif;
+}
