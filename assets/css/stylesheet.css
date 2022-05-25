@@ -191,7 +191,7 @@ a:visited {
     font-weight: normal;
 }
 
-#opening-head, #contact-head {
+#opening-head, #contact-head, #form-head{
     font-weight: bold;
     color: bisque;
     letter-spacing: 2px;
@@ -204,7 +204,7 @@ a:visited {
     text-align: center;
     font-family: 'IBM Plex Serif', sans-serif;
     font-weight: lighter;
-    color: bisque;
+    color: saddlebrown;
     letter-spacing: 2px;
     border: 5px solid bisque;
     padding: 10px;
@@ -212,17 +212,19 @@ a:visited {
 
 .form-box {
     width:40%;
-    border: solid 2px;
-    color: bisque;
+    border: solid 4px;
+    color: rgb(156, 69, 7);
     border-radius: 5px;
+    border-color: bisque;
 }
 
 #comment-box {
     height: 50px;
     width: 40%;
-    border: solid 2px;
-    color: bisque;
+    border: solid 4px;
+    color: rgb(156, 69, 7);
     border-radius: 5px;
+    border-color: bisque;
 }
 
 .buttons {
