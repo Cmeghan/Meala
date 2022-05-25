@@ -4,6 +4,11 @@
     border: none;
 }
 
+header {
+    size: 100px;
+    height: 90px;
+}
+
 body {
     background-color: saddlebrown;
 }
@@ -149,10 +154,9 @@ a:visited {
 
 /*Footer (social, contact, opening hours)*/
 
-.footer {
-    position: absolute;
-    bottom: 0;
-    
+footer {
+    margin-top: 50px;
+    height: 100px;
 }
 
 #opening {
@@ -243,3 +247,38 @@ a:visited {
     color: brown;
 }
 
+/*FAQ Section*/
+
+#faq {
+    text-align: center;
+    font-family: 'IBM Plex Serif', sans-serif;
+    font-weight: lighter;
+    color: bisque;
+    letter-spacing: 2px;
+}
+
+#faq ul li {
+    list-style-type: none;
+}
+
+.li-large {
+    text-align: center;
+    font-family: 'IBM Plex Serif', sans-serif;
+    font-weight: bold;
+    color: bisque;
+    letter-spacing: 2px;
+    font-size: normal;
+}
+
+#faq-head {
+    text-align: center;
+    font-size: x-large;
+    padding: 20px;
+    text-decoration: underline;
+
+}
+
+.faq-content {
+    padding-left: 150px;
+    padding-right: 150px;
+}
