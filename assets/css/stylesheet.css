@@ -9,13 +9,11 @@ header {
     height: 90px;
     background-image: url("../images/1769997.webp");
     background-size: 100%;
-    border: solid 2px;
     color: bisque;
 }
 
 body {
     background-color: rgb(78, 49, 29);
-    border: solid 2px bisque;
 }
 
 /*navigation and logo*/
@@ -70,18 +68,18 @@ a:visited {
     height:250px;
     background-image: url("../images/Hair.png");
     background-size: 100%;
-
-    border: solid 2px;
+    size:100%;
     color: bisque;
 }
 
 /*About Section*/
 
 #about {
-    height: 300px;
+    height: auto;
     width: 100%;
     overflow: hidden;
     color: bisque;
+    overflow: visible;
 }
 
 #about-content h2 {
@@ -110,16 +108,16 @@ a:visited {
 
 #image-bar {
     height: 250px;
-    border: solid 2px;
     color: bisque;
     background-image: url("../images/studio.png");
     background-size: 100%;
     background-position: center;
+    size:100%;
 }
 
 /*Price List*/
 #price-list {
-    height: 650px;
+    height: auto;
     width: 50%;
     overflow: hidden;
     position: relative;
@@ -152,10 +150,9 @@ a:visited {
 /*Sand image bar*/
 
 #sand-image-bar {
-    height:250px;
+    height: auto;
     background-image: url("../images/sand.png");
     background-size: 100%;
-    border: solid 2px;
     color: bisque;
 
 }
@@ -168,15 +165,15 @@ a:visited {
     font-style: italic;
     letter-spacing: 1px;
     font-weight: lighter;
+
 }
 /*Reviews*/
 
 #reviews {
-    height: 200px;
+    height: auto;
     width: 100%;
     overflow: hidden;
     margin:auto;
-    padding: 20px;
 }
 
 #review-content h2{
@@ -208,21 +205,20 @@ a:visited {
 
 footer {
     margin-top: 50px;
-    height: 310px;
+    height: auto;
     background-image: url("../images/1769997.webp");
 }
+
 
 #opening {
     float:left;
     margin: 30px;
-    border: 2px solid bisque;
     padding: 10px;
 }
 
 #contact {
     float:right;
     margin: 30px;
-    border: 2px solid bisque;
     padding: 10px;
 }
 
@@ -265,32 +261,25 @@ footer {
     font-weight: normal;
     color: bisque;
     letter-spacing: 2px;
-    border: 5px solid bisque;
     padding: 10px;
 }
 
 .form-box {
     width:40%;
-    border: solid 4px;
     color: rgb(156, 69, 7);
-    border-radius: 5px;
-    border-color: bisque;
+    
 }
 
 #comment-box {
     height: 50px;
     width: 40%;
-    border: solid 4px;
     color: rgb(156, 69, 7);
-    border-radius: 5px;
-    border-color: bisque;
+
 }
 
 .buttons {
     height:20px;
     width:80px;
-    border: solid 2px;
-    border-radius: 25px;
     color: saddlebrown;
 }
 
@@ -307,8 +296,9 @@ footer {
 #social {
     font-size: xx-large;
     text-align: center;
-    padding: 20px;
+    padding-top: 70px;
     margin: 0 auto;
+    height: 70px;
 }
 
 #social a {
@@ -376,4 +366,46 @@ footer {
         left: 0;
     }
 
+    #opening{
+        clear: both;
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding:10px 0;
+
+    }
+
+    #opening-times {
+        text-align: center;
+    }
+
+    #contact {
+        clear: both;
+        width: 100%;
+        text-align: center;
+        padding:10px 0;
+        margin: 0%;
+    
+    }
+
+    
+    #contact-details {
+        text-align: center;
+    }
+
+    form {
+        padding:10px 0;
+        width: 100%;
+    }
+
+    #reviews {
+        text-align: center;
+        font-size: small;
+        height: 200px;
+        padding: 10px 0;
+    }
+
+    #styles {
+        font-size: smaller;
+    }
 }
