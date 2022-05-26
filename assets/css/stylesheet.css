@@ -404,7 +404,7 @@ footer {
         padding: 10px 0;
     }
 
-    #styles {
+    #styles li {
         font-size: smaller;
     }
 
@@ -416,4 +416,21 @@ footer {
         text-align: center;
         padding: 30px;
     }
+}
+
+@media screen and (max-width:800px) {
+
+    #styles li {
+        font-size: x-small;
+    }
+
+    #facebook, #instagram, #tiktok {
+        padding: 0 15px;
+        text-align: center;
+    }
+
+    .topnav a{
+        font-size: small;
+    }
+    
 }
