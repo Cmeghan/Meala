@@ -401,11 +401,19 @@ footer {
     #reviews {
         text-align: center;
         font-size: small;
-        height: 200px;
         padding: 10px 0;
     }
 
     #styles {
         font-size: smaller;
+    }
+
+    #about-content p {
+        padding: 10px;
+    }
+
+    #faq-head {
+        text-align: center;
+        padding: 30px;
     }
 }
