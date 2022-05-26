@@ -364,11 +364,16 @@ footer {
 /*media queries for screens smaller than 1000*/
 
 @media screen and (max-width:1200px) {
-    .header {
-        text-align: center;
+    .topnav {
+        float: left;
+        clear: left;
+        position: relative;
+        bottom: 35px;
     }
 
-    .nav {
-        position: relative;
+    header {
+        height: 150px;
+        left: 0;
     }
+
 }
