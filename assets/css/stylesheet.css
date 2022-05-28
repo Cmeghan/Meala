@@ -65,11 +65,29 @@ a:visited {
 /*Salon Picture*/
 
 #salon-pic {
-    height:250px;
-    background-image: url("../css/pexels-iiii-iiii-54566.jpg");
+    height:400px;
+    background-image: url("../images/pexels-iiii-iiii-54566.jpg");
     background-size: cover;
     background-position: center;
     color: bisque;
+}
+
+#salon-location {
+    height: 200px;
+    width: 200px;
+    padding:50px 30px 20px 30px;
+
+    text-align: center;
+    background-color: rgb(154, 59, 59, .6);
+    position: absolute;
+    border-radius: 25%;
+
+    font-size: larger;
+    font-family: 'Source Serif 4', sans-serif;
+    letter-spacing: 2px;
+
+    bottom: 120px;
+    left: 110px;
 }
 
 /*About Section*/
