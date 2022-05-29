@@ -1,4 +1,4 @@
-Alt-MEALA 
+MEALA 
 ======
 The Meala website was set up as a landing page for a local hair-styling business named 'Meala', looking to entice potential new customers, and aid existing customers in making bookings, and gathering information. 
 
@@ -6,8 +6,8 @@ The website has been set up with all the information a customer should need prio
 
 <!--- Space for multiple view picture of finished site --->
 
-Alt-FEATURES 
-======
+FEATURES 
+-----
 - Navigation 
 The Navigation bar is featured at the top left of the page. With the brand/website name in the top left corner, which when clicked takes the user back to the homepage. 
 The 3 pages within the website are located on the top right of the page on each page to easily navigate throughout the website. 
