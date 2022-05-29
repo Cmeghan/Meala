@@ -52,3 +52,4 @@ All this information was placed in the footer across the website so that users a
 <!--- Space for picture of footer --->
 
 
+<!--- Space for picture of footer --->
