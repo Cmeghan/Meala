@@ -5,7 +5,6 @@
 }
 
 header {
-    size: 100px;
     height: 90px;
     background-image: url("../images/pexels-eva-elijas-7599543.jpg");
     background-size: 100%;
@@ -131,7 +130,6 @@ a:visited {
     background-image: url("../images/pexels-anete-lusina-6331027.jpg");
     background-size: 100%;
     background-position: center;
-    size:100%;
 }
 
 /*Price List*/
@@ -289,7 +287,7 @@ footer {
     
 }
 
-#comment-box {
+#comments {
     height: 50px;
     width: 40%;
     color: rgb(156, 69, 7);
