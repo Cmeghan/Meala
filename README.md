@@ -50,3 +50,59 @@ It contains links to the business' multiple social media platforms.
 All this information was placed in the footer across the website so that users always have easy access to contacting the business without needing to look for this information themselves.
 
 <!--- Space for picture of footer --->
+<!--- Space for picture of footer --->
+
+
+<!--- Space for picture of footer --->
+
+- BUGS
+
+Struggled to push through data to Github as I made a change on Github while Gitpod coding was still open. Kept receiving error “tip of your current branch is behind its remote counterpart”
+
+When I tried to fix error by using "git pull" I kept receiving error "fatal: Not possible to fast-forward, aborting." 
+
+I googled the error and found a suggestion here "https://stackoverflow.com/questions/13106179/fatal-not-possible-to-fast-forward-aborting" 
+
+Terminal bug error resolution:
+"gitpod /workspace/Meala (main) $ git pull --rebase
+Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+error: could not apply 6bdacea... updated readme
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+Could not apply 6bdacea... updated readme
+gitpod /workspace/Meala (main|REBASE 3/3) $ git add/rm <conflicted_files>
+bash: syntax error near unexpected token `newline'
+gitpod /workspace/Meala (main|REBASE 3/3) $ git rebase --continue
+README.md: needs merge
+You must edit all merge conflicts and then
+mark them as resolved using git add
+gitpod /workspace/Meala (main|REBASE 3/3) $ git pull
+error: Pulling is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+gitpod /workspace/Meala (main|REBASE 3/3) $ git add .
+gitpod /workspace/Meala (main|REBASE 3/3) $ git commit -m "test"
+[detached HEAD b3164a7] test
+ 1 file changed, 1 insertion(+)
+gitpod /workspace/Meala (main|REBASE 3/3) $ git push
+fatal: You are not currently on a branch.
+To push the history leading to the current (detached HEAD)
+state now, use
+
+    git push origin HEAD:<name-of-remote-branch>
+
+gitpod /workspace/Meala (main|REBASE 3/3) $ git push origin HEAD:main
+Enumerating objects: 24, done.
+Counting objects: 100% (24/24), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (16/16), 1.61 KiB | 1.61 MiB/s, done.
+Total 16 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (8/8), completed with 5 local objects.
+To https://github.com/Cmeghan/Meala.git
+   c7cc93b..b3164a7  HEAD -> main
+gitpod /workspace/Meala (main|REBASE 3/3) $ "
