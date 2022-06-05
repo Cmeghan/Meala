@@ -19,7 +19,6 @@ body {
     display: inline;
     float: right;
     padding: 25px;
-    color:rgb(49, 40, 34)
 }
 
 li a {
@@ -28,6 +27,7 @@ li a {
     letter-spacing: 2px;
     font-family: 'IBM Plex Serif', sans-serif;
     text-transform: uppercase;
+    color:rgb(49, 40, 34)
 }
 
 a:visited {
@@ -513,4 +513,11 @@ footer {
      column-count: 2;
  }
     
+}
+
+@media screen and (max-width:350px) {
+    .topnav li, .topnav a{
+        font-size: x-small;
+        padding: 40px 2px;
+    }
 }
