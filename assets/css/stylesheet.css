@@ -310,6 +310,8 @@ footer {
     height:20px;
     width:80px;
     color: saddlebrown;
+    text-decoration: none;
+    background-color: white;
 }
 
 .buttons:hover {
