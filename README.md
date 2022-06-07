@@ -180,13 +180,9 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 ![FAQ Page](/assets/images/meala-faq.PNG)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- Another idea for future implementation would be to include an online booking system, in which a person can make the appointment directly through the site, without having to contact the salon prior. 
 
 ## Testing 
 
