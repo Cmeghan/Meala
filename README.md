@@ -168,10 +168,10 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see the quality of the clients work. 
+  - This section is valuable to the user as they will be able to see finished styles and creations available at Meala and decide for themselves from the images if they'd like to make an appointment. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](/assets/images/meala-gallery.PNG)
 
 - __The Sign Up Page__
 
