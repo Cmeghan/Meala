@@ -115,13 +115,6 @@ The Meala website was set up as a landing page for a local hair-styling business
 
 The website has been set up with all the information a customer should need prior to making a booking or consultation, this includes pricing, contact information, information about the services rendered, along with information regarding the stylist themselves.
 
-About: Important for customers to know the qualifications and history of the brand/client.
-Price List: Potential customers can review price list before contacting directly for ease of experience.
-Reviews: Gives customers a chance to see what previous customers have had to say about the business.
-Contact Form: Easy access for potential customers to reach out directly to the business.
-Gallery: Images of the clients own work to entice potential customers.  
-FAQ: Information regarding the clients hair extension service as this information would be valuable for customers prior to making a booking.
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -156,6 +149,14 @@ FAQ: Information regarding the clients hair extension service as this informatio
   - I have included this on the front page as typically this information is of paramount importance to customers, and being upfront about pricing creates a good user experience. 
 
 ![Price List](/assets/images/meala-price.PNG)
+
+- __Reviews__ 
+
+  - The reviews section covers some feedback provided by previous customers.
+  - This gives potential new customers an idea of the services provided by Meala and may offer comfort when booking an appointment.
+
+![Reviews](/assets/images/meala-reviews.PNG)
+
 
 - __The Footer__ 
 
@@ -233,19 +234,3 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 - All the photos throughout the website were taken and provided by the client Andrew Thomas Jones.
 
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
