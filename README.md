@@ -150,12 +150,20 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 ![Image Bar](/assets/images/meala-imagebar.PNG)
 
+- __Image Bar__
+
+  - After speaking to the client, they advised that besides the gallery, they also wanted the user to see their work on the homepage, so that potential clients can see the clients work immediately after opening the website. 
+
+![Image Bar](/assets/images/meala-imagebar.PNG)
+
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Meala. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer also contains the opening hours and location of the salon
+  - The footer also contains a form in which the user can contact the salon directly through the site.
+  - The footer contains all this information across every page to ensure ease of contact for any potential customers. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](/assets/images/meala-footer.PNG)
 
 - __Gallery__
 
