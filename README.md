@@ -173,11 +173,12 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 ![Gallery](/assets/images/meala-gallery.PNG)
 
-- __The Sign Up Page__
+- __FAQ Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to view multiple queries relating to hair extensions. Which is the most complicated and expensive service offered by Meala.
+  - This page is valuable as this product requires a consultation, and having as much information possible before a client decides to make an appointment creates a good user experience.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![FAQ Page](/assets/images/meala-faq.PNG)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
