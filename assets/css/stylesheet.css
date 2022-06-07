@@ -184,7 +184,7 @@ a:visited {
     color: rgb(241, 212, 192);
 }
 
-#meala-experience h1 {
+#meala-experience h3 {
     font-size: 70px;
     text-align: center;
     padding: 70px;
@@ -492,7 +492,7 @@ footer {
         bottom: 10px;
     }
 
-    #meala-experience h1 {
+    #meala-experience p {
         font-size: large;
     }
 
