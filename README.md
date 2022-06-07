@@ -126,31 +126,29 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and FAQ page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](/assets/images/Responsive.PNG)
+![Nav Bar](/assets/images/meala-nav.PNG)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph with text overlay to allow the user to see the location of the salon.
+  - This section introduces the user to Meala with an 'on-brand' image of the client's salon.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](/assets/images/meala-landing.PNG)
 
-- __Club Ethos Section__
+- __About Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About section gives the user insight into the stylist and owner of the business, while also providing information about which brands are used, and a brief overview of services rendered. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About](/assets/images/meala-about.PNG)
 
-- __Meetup Times section__
+- __Image Bar__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - After speaking to the client, they advised that besides the gallery, they also wanted the user to see their work on the homepage, so that potential clients can see the clients work immediately after opening the website. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Image Bar](/assets/images/meala-imagebar.PNG)
 
 - __The Footer__ 
 
