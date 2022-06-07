@@ -150,11 +150,12 @@ FAQ: Information regarding the clients hair extension service as this informatio
 
 ![Image Bar](/assets/images/meala-imagebar.PNG)
 
-- __Image Bar__
+- __Price List__
 
-  - After speaking to the client, they advised that besides the gallery, they also wanted the user to see their work on the homepage, so that potential clients can see the clients work immediately after opening the website. 
+  - I've included a price list for all services rendered by the client.
+  - I have included this on the front page as typically this information is of paramount importance to customers, and being upfront about pricing creates a good user experience. 
 
-![Image Bar](/assets/images/meala-imagebar.PNG)
+![Price List](/assets/images/meala-price.PNG)
 
 - __The Footer__ 
 
