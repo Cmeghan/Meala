@@ -204,7 +204,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+N/A 
 
 ## Deployment
 
@@ -220,23 +220,18 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- LoveRunning Project from Code Institute was very helpful and gave me inspiration for placement of certain elements, such as nav bar and landing page. 
+- All photographs and media provided by Andrew Thomas Jones (owner of Meala)
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The price list and contact information was taken from Hari's hairdressers in London. [Price list](https://harissalon.com/parsons-green/#foobox-6/0/andrew)
+- The FAQ's for hair extensions were taken from this website [great lengths hair extensions](https://www.greatlengths.com/en-ie/faq)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+- All the photos throughout the website were taken and provided by the client Andrew Thomas Jones.
 
 ## Other General Project Advice
 
