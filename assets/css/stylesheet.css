@@ -97,11 +97,10 @@ a:visited {
 /*About Section*/
 
 #about {
-    height: auto;
-    width: 100%;
     overflow: hidden;
     color: rgb(49, 40, 34);
     overflow: visible;
+    padding: 50px;
 }
 
 #about-content h2 {
@@ -116,9 +115,7 @@ a:visited {
 }
 
 #about-content p {
-    text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    text-align: left;
     letter-spacing: 1px;
     color:rgb(49, 40, 34);
     font-weight: normal;
