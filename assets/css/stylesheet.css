@@ -115,7 +115,8 @@ a:visited {
 }
 
 #about-content p {
-    text-align: left;
+    text-align: center;
+    line-height: 25px;
     letter-spacing: 1px;
     color:rgb(49, 40, 34);
     font-weight: normal;
@@ -469,6 +470,10 @@ footer {
 
     #styles li {
         font-size: x-small;
+    }
+
+    #about {
+        padding: 5px;
     }
 
     #facebook, #instagram, #tiktok {
