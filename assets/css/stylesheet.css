@@ -59,7 +59,7 @@ a:visited {
     border-radius: 7px;
 }
 
-/*Salon Picture*/
+/*Landing Page*/
 
 #salon-outer {
     height: 500px;
@@ -391,7 +391,7 @@ footer {
      width: 100%;
  }
 
-/*media queries for screens smaller than 1000*/
+/*media queries for screens smaller than 1000px*/
 
 @media screen and (max-width:1200px) {
     .topnav {
@@ -519,6 +519,7 @@ footer {
     
 }
 
+/*media query for screens smaller than 350px*/
 @media screen and (max-width:350px) {
     .topnav li, .topnav a{
         font-size: x-small;
